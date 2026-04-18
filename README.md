@@ -1,1 +1,2 @@
 # Pokemarket-Dr-Mundo-Innovations-
+PokéMarket es una plataforma digital especializada en la gestión, valoración y transacción de cartas coleccionables de Pokémon. Su propósito central es operar como infraestructura de datos para clientes B2B (mediante una API de precios) y como canal de compraventa para usuarios B2C, integrando catálogo estructurado, subastas y herramientas de inteligencia de mercado en un sistema único.  
